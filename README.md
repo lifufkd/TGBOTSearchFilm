@@ -1,4 +1,5 @@
-<h1>[ENG]</h1><br>
+![photo_2024-02-21_10-21-42](https://github.com/user-attachments/assets/0e71cfb5-63d1-4e2e-81d5-01ada7b00c29)
+<h1>[ENG]<h1><br>
 How does the bot work?<br>
 You write /start and the bot sends you a greeting message, followed by a message with a choice of further action.<br>
 Actions:<br>
